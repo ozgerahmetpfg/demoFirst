@@ -13,7 +13,9 @@ public class DemoClass {
             ar1[i]= str;
         }
 
-
+        for (String s : ar1){
+            System.out.println(s);
+        }
 
         for (String s : ar1){
             System.out.println(s);

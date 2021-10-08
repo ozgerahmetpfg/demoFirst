@@ -21,6 +21,10 @@ public class DemoClass {
             System.out.println(s);
         }
 
+        for (String s : ar1){
+            System.out.println(s);
+        }
+
 
 
     }
